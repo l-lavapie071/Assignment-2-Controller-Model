@@ -18,7 +18,7 @@ namespace Assignment_2_Controller___Model.Models
 
         public DateTime ReturnDate { get; set; }
 
-        public DateTime ReturnedDate { get; set; }
+        public DateTime? ReturnedDate { get; set; }
     }
 
 }
